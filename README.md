@@ -18,7 +18,7 @@ All rent data comes from the [Zillow Observed Rent Index (ZORI)](https://www.zil
  
 ## Forecasting
  
-The forecast section uses [Facebook Prophet](https://facebook.github.io/prophet/), an open source forecasting library. You give it historical rent data for a city and it predicts what rent will look like over the next 6-24 months. It also shows a confidence range so you can see how uncertain the prediction is.
+The forecast section uses [Facebook Prophet](https://facebook.github.io/prophet/), an open source forecasting library. I used it to predict what rent will look like over the next 6-24 months. It also shows a confidence range so you can see how uncertain the prediction is.
  
 ## Tech stack
  
